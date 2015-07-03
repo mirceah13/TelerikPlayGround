@@ -32,7 +32,80 @@ input[type="select"] {
     .jumbotron {
         margin-top: 20px;
     }
+
     .body-content {
         padding: 0;
     }
+}
+
+html body span 
+.riTextBox.skype {
+    background: #FFFFFF url(http://www.trainarea.com/Content/icons/skype.png) no-repeat 4px 4px;
+    padding: 4px 4px 4px 28px;
+    height: 28px;
+    border: 1px solid #ccc;
+}
+
+html body span 
+.riTextBox.linkedIn {
+    background: #FFFFFF url(http://www.trainarea.com/Content/icons/linkedIn.png) no-repeat 4px 4px;
+    padding: 4px 4px 4px 28px;
+    height: 28px;
+    border: 1px solid #ccc;
+}
+
+html body span 
+.riTextBox.msn {
+    background: #FFFFFF url(http://www.trainarea.com/Content/icons/msn.png) no-repeat 4px 4px;
+    padding: 4px 4px 4px 28px;
+    height: 28px;
+    border: 1px solid #ccc;
+}
+
+html body span 
+.riTextBox.yahoo {
+    background: #FFFFFF url(http://www.trainarea.com/Content/icons/yahoo.png) no-repeat 4px 4px;
+    padding: 4px 4px 4px 28px;
+    height: 28px;
+    border: 1px solid #ccc;
+}
+
+html body span 
+.riTextBox.xing {
+    background: #FFFFFF url(http://www.trainarea.com/Content/icons/xing.png) no-repeat 4px 4px;
+    padding: 4px 4px 4px 28px;
+    height: 28px;
+    border: 1px solid #ccc;
+}
+
+html body span 
+.riTextBox.aol {
+    background: #FFFFFF url(http://www.trainarea.com/Content/icons/aol.png) no-repeat 4px 4px;
+    padding: 4px 4px 4px 28px;
+    height: 28px;
+    border: 1px solid #ccc;
+}
+
+html body span 
+.riTextBox.icq {
+    background: #FFFFFF url(http://www.trainarea.com/Content/icons/icq.png) no-repeat 4px 4px;
+    padding: 4px 4px 4px 28px;
+    height: 28px;
+    border: 1px solid #ccc;
+}
+
+html body span 
+.riTextBox.twitter {
+    background: #FFFFFF url(http://www.trainarea.com/Content/icons/twitter.png) no-repeat 4px 4px;
+    padding: 4px 4px 4px 28px;
+    height: 28px;
+    border: 1px solid #ccc;
+}
+
+html body span 
+.riTextBox.facebook {
+    background: #FFFFFF url(http://www.trainarea.com/Content/icons/facebook.png) no-repeat 4px 4px;
+    padding: 4px 4px 4px 28px;
+    height: 28px;
+    border: 1px solid #ccc;
 }
